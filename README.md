@@ -13,7 +13,7 @@ Fraud detection in financial transactions is a critical real-world challenge. Th
 
 ---
 
-## 🚀 Features
+## Features
 
 - Interactive Streamlit web application
 - Real-time fraud prediction using a trained XGBoost model
@@ -23,7 +23,7 @@ Fraud detection in financial transactions is a critical real-world challenge. Th
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset used is the [Credit Card Fraud Detection dataset]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud]) from Kaggle. It contains anonymized credit card transactions made by European cardholders in 2013. The dataset includes:
 
@@ -33,7 +33,7 @@ The dataset used is the [Credit Card Fraud Detection dataset]([https://www.kaggl
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 A comprehensive EDA was performed to understand data patterns and build intuition for feature selection and modeling. Key EDA steps:
 
@@ -50,7 +50,7 @@ Refer to the Colab notebook for detailed visualizations and insights.
 
 ---
 
-## 🧠 Modeling
+## Modeling
 
 Several models were evaluated, including:
 
