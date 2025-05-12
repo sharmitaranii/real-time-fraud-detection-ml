@@ -3,7 +3,7 @@
 This is a Streamlit web application that predicts whether a credit card transaction is fraudulent using a machine learning model trained on anonymized transaction data.
 
 **Live App**: https://sharmitaranii-real-time-fraud-detection-ml-streamlit-app-oupvde.streamlit.app/  
-**Colab Notebook**: [Exploratory Data Analysis & Model Training]([(https://colab.research.google.com/drive/1HzauY24UJQ2RoQvspnhl4qJZ7v6R59Bb?usp=sharing))_
+**Colab Notebook**: ([(https://colab.research.google.com/drive/1HzauY24UJQ2RoQvspnhl4qJZ7v6R59Bb?usp=sharing))_
 
 ---
 
