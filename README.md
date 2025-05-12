@@ -1,4 +1,4 @@
-# Real-Time Fraud Detection – Catch It Before It Hits
+# Real-Time Fraud Detection – Catch It Before It Hits 
 
 This is a Streamlit web application that predicts whether a credit card transaction is fraudulent using a machine learning model trained on anonymized transaction data. This application is a prototype for real-time fraud detection. It allows users to upload transaction data in CSV format and uses a trained XGBoost model to predict fraudulent transactions. While the current interface supports batch processing, the underlying logic can be extended for live transaction streaming or API integration.
 
