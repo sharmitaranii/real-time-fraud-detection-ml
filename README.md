@@ -93,6 +93,7 @@ streamlit run streamlit_app.py
    After running the app, a browser window will open.
 
    Upload a CSV file containing transaction data (matching the trained feature format).
+   Here is a sample CSV file for testing: https://drive.google.com/file/d/1V4busKzNhHFI81UZ0aH6mpf9RylqEJbQ/view?usp=sharing 
 
    The app will display:
 
