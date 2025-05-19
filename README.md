@@ -4,7 +4,6 @@ This is a Streamlit web application that predicts whether a credit card transact
 
 
 **Live App**: https://sharmitaranii-real-time-fraud-detection-ml-streamlit-app-oupvde.streamlit.app/  
-**Colab Notebook**: https://colab.research.google.com/drive/1HzauY24UJQ2RoQvspnhl4qJZ7v6R59Bb?usp=sharing
 
 ---
 
